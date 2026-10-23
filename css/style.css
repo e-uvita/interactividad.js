@@ -8,8 +8,10 @@ body{
     background-color:var(--color-bg);
     color:var(--color-text);
 }
+
 .dark{
     color-scheme:dark;
     --color-bg:#000;
     --color-text:#fff;
 }
+
